@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<mule.version>3.9.3</mule.version>
+		<mule.version>3.9.1</mule.version>
 		<mule.tools.version>1.7</mule.tools.version>
 		<derby.version>10.12.1.1</derby.version>
 		<activemq.version>5.7.0</activemq.version>
@@ -183,12 +183,7 @@
 			<url>http://repository.mulesoft.org/releases/</url>
 			<layout>default</layout>
 		</repository>
-		<repository>
-        <id>mulesoft-public</id>
-        <name>MuleSoft Public Repository</name>
-        <url>https://repository.mulesoft.org/nexus/content/repositories/public/</url>
-        <layout>default</layout>
-    </repository>
+		
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
